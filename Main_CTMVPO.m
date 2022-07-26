@@ -3,12 +3,12 @@
 %                                                                   %
 %  Developed in MATLAB R2021a                                       %
 %                                                                   %
-%  Author and programmer: C.Kasimis, S.D.Mourtas                    %
+%  Author and programmer: S.D.Mourtas, C.Kasimis                    %
 %                                                                   %
 %   e-Mail: chrkasim@upatras.gr                                     %
 %           spirosmourtas@gmail.com                                 %
 %                                                                   %
-%   Main paper: C.Kasimis, S.D.Mourtas, 'Exploiting Mean-Variance   %
+%   Main paper: S.D.Mourtas, C.Kasimis, 'Exploiting Mean-Variance   %
 %               Portfolio Optimization Problems through Zeroing     %
 %               Neural Networks', (submitted)                       %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
