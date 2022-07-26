@@ -2,7 +2,7 @@
 The Markowitz mean-variance portfolio optimization is widely acclaimed as a very important investment strategy. This repository contains three continuous-time versions of the mean-variance portfolio optimization (MVPO) problem. The first two MVPO problems are defined as time-varying quadratic programming (TVQP) problems, while the third MVPO problem is defined as a time-varying nonlinear programming (TVNLP) problem.
 The purpose of this package is to solve online the continuous-time versions of the MVPO problem by using a continuous-time neural network (NN) solver. This solver is the zeroing NN (ZNN).
 The main article used is the following:
-*	C.Kasimis, S.D.Mourtas, "Exploiting Mean-Variance Portfolio Optimization Problems through Zeroing Neural Networks", (submitted)
+*	S.D.Mourtas, C.Kasimis, "Exploiting Mean-Variance Portfolio Optimization Problems through Zeroing Neural Networks", (submitted)
 
 # M-files Description
 *	Main_CTMVPO.m: the main function and parameters declaration
