@@ -10,7 +10,7 @@
 %                                                                   %
 %   Main paper: S.D.Mourtas, C.Kasimis, 'Exploiting Mean-Variance   %
 %               Portfolio Optimization Problems through Zeroing     %
-%               Neural Networks', (submitted)                       %
+%               Neural Networks', 10(17), 3079 (2022)               %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear 
